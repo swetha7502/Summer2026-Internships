@@ -44,8 +44,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 [⬇️ Jump to bottom ⬇️](https://github.com/vanshb03/Summer2026-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
-| Company | Role | Location | Application/Link | Date Posted |
-| ------- | ---- | -------- | ---------------- | ----------- |
+| Company | Role | Location | Application/Link | Date Posted | Status |
+| ------- | ---- | -------- | ---------------- | ----------- | ------ |
 | SAIC | Software Engineer Intern 🇺🇸 | El Paso, TX | <a href="https://jobs.saic.com/jobs/16632564-software-engineer-intern?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | IXL Learning | Software Engineer Intern | San Mateo, CA | <a href="https://www.ixl.com/company/careers?gh_jid=8128629002&utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
 | Hewlett Packard Enterprise | Software Engineering Intern | Spring, TX | <a href="https://careers.hpe.com/us/en/job/1192961/Software-Engineering-Intern?utm_source=github-vansh-ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
